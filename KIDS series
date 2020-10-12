@@ -20,12 +20,12 @@
 
 
 
-channels>
+<channels>
 <channel>
-<name>[COLOR white][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<name>[COLOR white]Caverna do Dragao[/COLOR]</name>
+<thumbnail>https://i.imgur.com/PJXY1vk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/samuel8899/Samflix/master/caverna%20do%20dragao</externallink>
+<fanart>https://i.imgur.com/PJXY1vk.jpg</fanart>
 <info>
 
 
