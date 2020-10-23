@@ -12,26 +12,19 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR lime]SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>http://br.web.img3.acsta.net/r_640_360/newsv7/20/01/02/20/33/0985764.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/samuel8899/Samflix/master/categorias%20de%20series</externallink>
-<fanart></fanart>
+<fanart>http://br.web.img3.acsta.net/r_640_360/newsv7/20/01/02/20/33/0985764.jpg</fanart>
 <info>
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR lime]ORIGINAL GLOBOPLAY[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/samuel8899/Samflix/master/Original%20Globoplay</externallink>
-<fanart></fanart>
-<info>
 
 
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR lime]KIDS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://img.elo7.com.br/product/zoom/279AD6D/painel-espaco-kids-infantil.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/samuel8899/Samflix/master/KIDS</externallink>
-<fanart></fanart>
+<fanart>https://img.elo7.com.br/product/zoom/279AD6D/painel-espaco-kids-infantil.jpg</fanart>
 <info>
 
 
